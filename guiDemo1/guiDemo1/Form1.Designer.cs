@@ -185,17 +185,17 @@ namespace guiDemo1
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.label2.Font = new System.Drawing.Font("Mistral", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(12, 9);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(158, 49);
             this.label2.TabIndex = 17;
-            this.label2.Text = "label2";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(309, 487);
+            this.ClientSize = new System.Drawing.Size(181, 248);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button14);
             this.Controls.Add(this.button13);
